@@ -1,0 +1,8 @@
+{
+  "name": "@glossia/about",
+  "private": true,
+  "packageManager": "pnpm@10.7.0",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
