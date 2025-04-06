@@ -4,6 +4,7 @@ pnpm = "10.7.0"
 
 [env]
 _.path = ['{{config_root}}/node_modules/.bin']
+_.file = ".env.json"
 
 [hooks]
 postinstall = "mise run install"
